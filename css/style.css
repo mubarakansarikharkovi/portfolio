@@ -801,6 +801,9 @@
     .text-image-section__alpha {
         margin-right: unset;
     }
+    .text-image-section__inner-image::before {
+     background-color: unset;
+    }
     .text-image-section__image-text-wrap {
         margin-top: 80px;
     }
